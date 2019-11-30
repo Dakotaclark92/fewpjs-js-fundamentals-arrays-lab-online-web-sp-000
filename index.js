@@ -1,5 +1,5 @@
 const append = ['Milo', 'Otis', 'Garfield'];
-append.push('Otis');
+append.push('Odie');
 
 const prepend = ['Milo', 'Otis', 'Garfield'];
 
